@@ -30,10 +30,16 @@ O aplicativo tem como usuário principal o prestador de serviços e o dono de ca
 
 Para o desenvolvimento do projeto, iremos utilizar a ferramenta Kodular, que é necessária para produzirmos a aplicação mobile. Além disso, também vamos contar com o GoogleFirebase para o gerenciamento de banco de dados.
 
+* ***Kodular***
 <div align="left">
 <img src="https://www.kodular.io/images/screenshot2.png"  width="600px"/>
 </div>
 
+* ***Google Firebase Database***
+<div align="left">
+ <img src="https://www.fabricadecodigo.com/wp-content/uploads/regras-do-banco-de-dados-angular-2-e-firebase.png" width="600px" />
+ </div>
+            
 # Licença
 
 ***Kodular License***
