@@ -1,4 +1,4 @@
-# FAXI-LINK [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+# FAXI-LINK [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)[![license](https://img.shields.io/badge/license-Kodular-orange)](https://github.com/Kodular/BlocklyMessages/blob/master/LICENSE)
 
 > Status: Em Desenvolvimento ⚙️
 
@@ -26,7 +26,7 @@ O aplicativo tem como usuário principal o prestador de serviços e o dono de ca
 
 ***Uma das funções principais do aplicativo é a geolocalização, através dela os usuários poderão acessar um mapa, para localização do cliente/prestador***
 
-# Liscença
+# Licença
 
 ***Kodular License***
 
